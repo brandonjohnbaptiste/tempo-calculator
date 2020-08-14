@@ -4,5 +4,5 @@ A website that allows you to tap a rhythm, then using that rhythm it will calcul
 
 ### TODO
 
--[] Add different time signitures
--[] Add sound detection
+[] Add different time signitures\
+[] Add sound detection
